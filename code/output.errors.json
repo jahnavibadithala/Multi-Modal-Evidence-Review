@@ -1,0 +1,222 @@
+[
+  {
+    "row_index": 1,
+    "user_id": "user_002",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 2,
+    "user_id": "user_005",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 3,
+    "user_id": "user_004",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 4,
+    "user_id": "user_007",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 5,
+    "user_id": "user_008",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 6,
+    "user_id": "user_003",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 7,
+    "user_id": "user_011",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 8,
+    "user_id": "user_004",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 9,
+    "user_id": "user_018",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 10,
+    "user_id": "user_014",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 11,
+    "user_id": "user_017",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 12,
+    "user_id": "user_018",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 13,
+    "user_id": "user_019",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 14,
+    "user_id": "user_020",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 15,
+    "user_id": "user_025",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 16,
+    "user_id": "user_026",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 17,
+    "user_id": "user_027",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 18,
+    "user_id": "user_028",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 19,
+    "user_id": "user_029",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 20,
+    "user_id": "user_030",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 21,
+    "user_id": "user_031",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 22,
+    "user_id": "user_032",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 23,
+    "user_id": "user_034",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 24,
+    "user_id": "user_036",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 25,
+    "user_id": "user_037",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 26,
+    "user_id": "user_038",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 27,
+    "user_id": "user_039",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 28,
+    "user_id": "user_040",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 29,
+    "user_id": "user_041",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 30,
+    "user_id": "user_042",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 31,
+    "user_id": "user_043",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 32,
+    "user_id": "user_044",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 33,
+    "user_id": "user_045",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 34,
+    "user_id": "user_047",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 35,
+    "user_id": "user_046",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 36,
+    "user_id": "user_034",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 37,
+    "user_id": "user_042",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 38,
+    "user_id": "user_022",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 39,
+    "user_id": "user_016",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 40,
+    "user_id": "user_033",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 41,
+    "user_id": "user_045",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 42,
+    "user_id": "user_041",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 43,
+    "user_id": "user_040",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  },
+  {
+    "row_index": 44,
+    "user_id": "user_045",
+    "error": "claim_extractor failed after 3 attempts: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+  }
+]
