@@ -1,3 +1,14 @@
+Multi-Modal Evidence Review
+Build a system that verifies damage claims using images, a short claim conversation, user history, and minimum evidence requirements.
+
+Each claim is about one of three object types: car, laptop, package.
+
+Your system must decide whether the submitted images support the user's claim, contradict it, or do not provide enough information.
+
+The images are the primary source of truth. The user conversation defines what needs to be checked. User history can add risk context, but should not override clear visual evidence by itself.
+
+
+
 Project/
 ├── dataset/
 │   ├── claims.csv
